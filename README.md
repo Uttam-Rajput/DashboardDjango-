@@ -25,8 +25,8 @@ It provides a clean, responsive interface for managing data, users, and visualiz
 | Backend    | Django (Python)     |
 | Database   | MongoDB             |
 | Frontend   | HTML, CSS           |
-| Styling    | CSS (Custom Styles) |
-| Deployment | Gunicorn, Nginx (Optional) |
+| Styling    | CSS , Bootstrap |
+
 
 ---
 
